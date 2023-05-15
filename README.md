@@ -36,3 +36,6 @@ This model was built on top of the Multilingual Representations for Indian Langu
 During training, the model was optimized using the binary cross-entropy loss function and the Adam optimizer. To further improve the accuracy and performance of the model, the three BERT models in the MuRIL BERT model - the base, large, and small models - were frozen during training. This helped to reduce the number of trainable parameters in the model and prevented overfitting, leading to better generalization performance.
 
 This model has achieved an accuracy of around 86% on a test set and can be used to detect and classify hate speech in both Hinglish and English text.
+
+# Note
+You might have to manually create the **models** folder in your directory if it is not already present.
