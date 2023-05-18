@@ -14,10 +14,10 @@ pip install pandas datasets transformers wandb
 
 ```
 
-You can install pytorch from [here] (https://pytorch.org/get-started/locally/)
-You can create your wandb account from [here] (https://wandb.ai/site)
+You can install pytorch from [here](https://pytorch.org/get-started/locally/)
+You can create your wandb account from [here](https://wandb.ai/site)
 
-This model was built on top of MuRIL (https://huggingface.co/google/muril-large-cased) and requires a GPU to train. 
+This model was built on top of [MuRIL](https://huggingface.co/google/muril-large-cased) and requires a GPU to train. 
 
 # Usage
 To use the model, simply clone this repository and open Eng+Hing_model.ipynb on your text editor. Run all the cells till you reach **LOAD SAVED MODEL**. After completing the training process, load your model and input your preferred text. 
