@@ -9,10 +9,13 @@ This repository contains a Deep Learning model that can detect and classify hate
 - wandb
 
 You can install these using pip:
-pip install pandas, datasets, transformers, wandb
+```
+pip install pandas datasets transformers wandb
 
-You can install pytorch from the following link: https://pytorch.org/get-started/locally/
-You can create your wandb account from the following link: https://wandb.ai/site
+```
+
+You can install pytorch from [here] (https://pytorch.org/get-started/locally/)
+You can create your wandb account from [here] (https://wandb.ai/site)
 
 This model was built on top of MuRIL (https://huggingface.co/google/muril-large-cased) and requires a GPU to train. 
 
