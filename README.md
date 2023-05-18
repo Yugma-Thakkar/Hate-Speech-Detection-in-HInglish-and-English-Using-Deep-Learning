@@ -14,7 +14,8 @@ pip install pandas datasets transformers wandb
 
 ```
 
-You can install pytorch from [here](https://pytorch.org/get-started/locally/)
+You can install pytorch from [here](https://pytorch.org/get-started/locally/).
+
 You can create your wandb account from [here](https://wandb.ai/site)
 
 This model was built on top of [MuRIL](https://huggingface.co/google/muril-large-cased) and requires a GPU to train. 
