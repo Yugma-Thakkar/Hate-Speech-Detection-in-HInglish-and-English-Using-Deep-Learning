@@ -1,5 +1,5 @@
 # Hate Speech Detection in Hinglish and English using Deep Learning
-This repository contains a Deep Learning model that can detect and classify hate speech in Hinglish and English text. The model was trained on a dataset of approximately 15000 Hinglish and English tweets, and has an accuracy of around 86% on a test set. 
+This repository contains a Deep Learning model that can detect and classify hate speech in Hinglish and English text. The model was trained on a dataset of approximately 15,000 Hinglish and English tweets, and has an accuracy of around 86% on a test set. 
 
 # Requirements
 - PyTorch
