@@ -32,7 +32,6 @@ One of the key strengths of the MuRIL BERT model is its ability to understand th
 
 For example, the model can pick up on subtle cues in hate speech related to caste, religion, and regional identity, which are often intertwined with politics in India. This is critical for accurately detecting and classifying hate speech in the Indian context, and highlights the model's ability to capture the nuances and complexities of language use in India.
 
-Overall, the hate speech detection and classification model built on top of the MuRIL BERT model is a powerful tool for identifying hate speech in the Indian context and can help promote a safer and more inclusive online environment for all.
 
 # Model Details
 This model was built on top of the Multilingual Representations for Indian Languages (MuRIL) BERT model, which is a pre-trained language model developed specifically for Indian languages, and covers around 17 Indic languages including Hinglish (Hindi + English code) and English. To build the hate speech detection and classification model, a classifier layer was added on top of the MuRIL BERT model. To fine-tune the model for the hate speech detection task, it was trained on a dataset of labeled examples covering a variety of controversial topics such as Castiesm, misogyny, Islamophobia, Hinduphobia, Racism and much much more.
